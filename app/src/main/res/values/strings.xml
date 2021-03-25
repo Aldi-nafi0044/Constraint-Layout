@@ -3,5 +3,5 @@
     <string name="tEmail">Email</string>
     <string name="tpasswprod">Password</string>
     <string name="bsigin">Sign-in</string>
-    <string name="button">Button</string>
+    <string name="btnsigin">OKE</string>
 </resources>
